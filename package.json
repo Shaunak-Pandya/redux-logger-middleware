@@ -1,0 +1,15 @@
+{
+  "name": "redux-middleware",
+  "version": "1.0.0",
+  "description": "Introduction to middleware using redux-logger external dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaunak Pandya",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.1.0",
+    "redux-logger": "^3.0.6"
+  }
+}
